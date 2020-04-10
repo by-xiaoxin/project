@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "default": "/component/chl/default/Default",
+    "find": "/component/chl/find/Find",
+    "found": "/component/chl/found/Found"
+  }
+}

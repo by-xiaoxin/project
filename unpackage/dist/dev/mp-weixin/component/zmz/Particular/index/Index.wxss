@@ -1,0 +1,226 @@
+
+.main {
+	padding: 0px 16rpx;
+}
+.cover {
+	width: 100%;
+	height: 100vh;
+	background-color: rgba(0, 0, 0, 0.5);
+	position: fixed;
+	top: 0px;
+	display: none;
+}
+/* 第一小部分 */
+.goodsimg image {
+	width: 100%;
+	height: 480rpx;
+	text-align: center;
+}
+swiper-item,swiper{
+	height: 480rpx;
+	width: 100%;
+}
+.goodsna {
+	font-size: 42rpx;
+	margin: 14rpx 0px;
+}
+.goodsin {
+	font-size: 32rpx;
+	color: #C9C9C9;
+}
+.goodspr {
+	color: #F86A07;
+	font-size: 24rpx;
+	vertical-align: top;
+	margin: 20rpx 0px;
+}
+.goodspr text {
+	font-size: 38rpx;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.goodstyd,
+.comments {
+	white-space: nowrap;
+}
+.goodstys {
+	width: 24%;
+	display: inline-block;
+}
+.goodstyn {
+	font-size: 30rpx;
+	font-weight: bold;
+}
+.goodstyv {
+	font-size: 24rpx;
+	color: #C0C0C0;
+}
+.goodsty image{
+	width: 60rpx;
+	height: 60rpx;
+}
+.img image{
+	width: 40rpx; height: 40rpx;
+}
+/* 第二小部分 */
+.choice {
+	padding: 0px 15rpx;
+	background-color: #F5F5F3;
+	border-radius: 5px;
+	border: 1px solid #F1F1F1;
+}
+.choice view {
+	height: 100rpx;
+	line-height: 100rpx;
+	border-bottom: 1px solid #F1F1F1;
+}
+.part1,
+.part2 {
+	font-size: 32rpx;
+	color: #858585;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.part3 {
+	font-size: 28rpx;
+	color: #858585;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.partl {
+	width: 86%;
+}
+.partr {
+	width: 10%;
+	font-size: 34rpx;
+}
+.choice text {
+	margin: 0px 10rpx;
+}
+.last {
+	color: #E67524;
+}
+.smis{background-color: #EF5300; border-radius: 50%; color: white; margin: 0px; padding: 4rpx 6rpx;
+font-size: 26rpx;}
+/* 第三小部分 */
+.commentsson {
+	width: 80%;
+	background-color: #F5F5F3;
+	border-radius: 20rpx;
+	margin: 10rpx;
+	display: inline-block;
+	padding: 20rpx;
+}
+.ctop {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.commenterimg {
+	width: 15%;
+}
+.commenterimg image {
+	width: 80%;
+	height: 70rpx;
+	border-radius: 50%;
+}
+.commentername {
+	font-size: 30rpx;
+	width: 65%;
+}
+.date {
+	font-size: 24rpx;
+	color: #CFCFCF;
+}
+.good {
+	width: 15%;
+	font-size: 30rpx;
+	text-align: right;
+	color: #CFCFCF;
+}
+.ccenter {
+	font-size: 32rpx;
+	line-height: 70rpx;
+}
+.cbottom image {
+	width: 40%;
+	height: 80rpx;
+}
+.morecom {
+	line-height: 60rpx;
+	color: #3994F1;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30rpx;
+}
+.cimg image {
+	width: 100%;
+	height: 700rpx;
+}
+.good image{
+	width: 40rpx; height: 40rpx;
+}
+/* 第四小部分 */
+.maybelike{
+	margin-bottom:90rpx;
+}
+.mltitle {
+	font-size: 36rpx;
+	line-height: 90rpx;
+	margin-top: 10rpx;
+	color: #373A3F;
+	text-indent: 20rpx;
+}
+.recson {
+	display: inline-block;
+	width: 48%;
+	margin: 0px 1%;
+}
+.recimg {
+	width: 100%;
+}
+.recimg image {
+	width: 100%;
+	height: 320rpx;
+}
+.rectit {
+	color: #383B40;
+	line-height: 70rpx;
+	font-size: 30rpx;
+	text-overflow:
+		ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+.recind {
+	font-size: 26rpx;
+	color: #6E747B;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+.recpri {
+	color: #BA545E;
+	font-size: 24rpx;
+	vertical-align: top;
+	margin: 10rpx 0px;
+}
+.min_price {
+	font-size: 34rpx;
+	vertical-align: middle;
+}
+.min_oprice {
+	font-size: 28rpx;
+	color: #6E747B;
+	vertical-align: middle;
+	margin: 0px 10rpx;
+	text-decoration: line-through;
+}
+.addshopcar{display: -webkit-box;display: -webkit-flex;display: flex; position: fixed; bottom: 0px; width: 100%;  font-size: 28rpx;}
+.collect,.shopcar{width: 25%; text-align: center; background-color: white; color: #434343;}
+.addsc{width: 50%; text-align: center; background-color: #FD6801; color: white; line-height: 90rpx;}
+.img image{width:40rpx; height: 40rpx;}
+.show {display: block;}
+

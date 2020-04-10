@@ -1,0 +1,19 @@
+
+.main.data-v-e6a2a13c {color: #333333;font-size: 35rpx;}
+.top.data-v-e6a2a13c {height: 150rpx;line-height: 150rpx;text-align: center;background-color: #F8F8F8;}
+.xmvip.data-v-e6a2a13c {line-height: 90rpx;border-bottom: 2rpx solid #F9F9F9;}
+.xmvip .txt.data-v-e6a2a13c {margin-left: 25rpx;color: #666;display: inline-block;}
+.xmvip-inner.data-v-e6a2a13c {margin: 0 30rpx;}
+.line.data-v-e6a2a13c {height: 20rpx;background-color: #F5F5F5;}
+.pic image.data-v-e6a2a13c {width: 35rpx;height: 35rpx;vertical-align: center;}
+.pic.data-v-e6a2a13c {display: inline-block;float: left;margin-left: 30rpx;}
+.compile.data-v-e6a2a13c {display: inline-block;}
+.del.data-v-e6a2a13c {display: inline-block;float: right;color: #BEBEBE;margin-right: 30rpx;}
+.pic1.data-v-e6a2a13c {display: inline-block;width: 100rpx;height: 60rpx;float: right;margin-top: 20rpx;}
+.bc.data-v-e6a2a13c {width: 80%;line-height: 80rpx;margin: auto;background-color: #EC5151;text-align: center;color: #FFFFFF;}
+.bottom.data-v-e6a2a13c {padding-top: 50rpx;}
+page.data-v-e6a2a13c {background-color: #efeff4;}
+.tui-picker-content.data-v-e6a2a13c {display: inline-block;}
+.tui-picker-name.data-v-e6a2a13c {height: 80rpx;line-height: 80rpx;}
+.tui-picker-detail.data-v-e6a2a13c {height: 80rpx;line-height: 80rpx;background-color: #fff;font-size: 35rpx;padding: 0 10px;}
+

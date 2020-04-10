@@ -1,0 +1,30 @@
+
+.tabs.data-v-2a5858da{
+	position: fixed;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.tabs-nav.data-v-2a5858da {
+	width: 100%;
+	height: 40px;
+	margin-top: 10px;
+}
+.tabs-nav-list.data-v-2a5858da {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 140%;
+	height: 100%;
+}
+.nav-list.data-v-2a5858da {
+	width: 14.27%;
+	text-align: center;
+	line-height: 75rpx;
+	border-bottom: solid 2px #fff;
+}
+.color.data-v-2a5858da {
+	color: red;
+	border-color: red;
+}
+

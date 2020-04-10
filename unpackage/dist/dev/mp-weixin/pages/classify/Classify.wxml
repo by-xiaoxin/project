@@ -1,0 +1,1 @@
+<view class="aa"><top-nev vue-id="1" bind:__l="__l"></top-nev><left-nev vue-id="2" bind:__l="__l"></left-nev></view>

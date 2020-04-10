@@ -1,0 +1,22 @@
+
+.found.data-v-1e3f87c0{
+	width: 100%;
+}
+.found-shopping.data-v-1e3f87c0{
+	border: solid 1px red;
+	width: 80%;
+	height: 80rpx;
+	line-height: 80rpx;
+	margin: 80px auto 80rpx;
+	text-align: center;
+}
+.mian.data-v-1e3f87c0{
+	background-color: #EEEEEE;
+}
+.mian-title.data-v-1e3f87c0{
+	text-align: center;
+	color: red;
+	width: 100%;
+	line-height: 100rpx;
+}
+

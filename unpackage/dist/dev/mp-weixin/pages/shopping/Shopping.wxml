@@ -1,0 +1,1 @@
+<view class="aa"><shopping-con vue-id="1" bind:__l="__l"></shopping-con><shopping-bom vue-id="2" bind:__l="__l"></shopping-bom></view>

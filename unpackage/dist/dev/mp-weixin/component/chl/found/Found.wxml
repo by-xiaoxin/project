@@ -1,0 +1,1 @@
+<view class="found data-v-1e3f87c0"><scroll-view style="{{('height:'+windowHeight+'px;')}}" scroll-y="true" class="data-v-1e3f87c0"><view class="data-v-1e3f87c0"><view class="found-shopping data-v-1e3f87c0">未找到商品</view><view class="mian data-v-1e3f87c0"><shopping-bom vue-id="1" class="data-v-1e3f87c0" bind:__l="__l"></shopping-bom></view></view></scroll-view></view>

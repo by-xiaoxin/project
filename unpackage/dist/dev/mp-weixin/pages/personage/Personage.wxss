@@ -1,0 +1,24 @@
+
+.main.data-v-239ad4df{font-size: 32rpx;color: #333333;}
+/* 上半部分 */
+.top.data-v-239ad4df{width: 100%;height: 340rpx;position: relative;}
+.top .bg-img.data-v-239ad4df{width: 100%;height: 340rpx;}
+.tx.data-v-239ad4df{position: absolute;top: 120rpx;left: 60rpx;}
+.tx .tx-img.data-v-239ad4df{width: 120rpx;height: 120rpx;border-radius: 50%;display: inline-block;vertical-align: middle;}
+.xx.data-v-239ad4df{position: absolute;top: 50rpx;right: 50rpx;width: 50rpx;height: 50rpx;}
+.vip.data-v-239ad4df{width: 300rpx;position: absolute;right: 0;bottom: 70rpx;background-color: #FCAD01;line-height: 70rpx;text-align: center; border-radius: 50rpx 0 0 50rpx;}
+.vip .vip-img.data-v-239ad4df{width: 60rpx;height: 60rpx;display: inline-block;vertical-align: middle;margin-bottom: 13rpx;}
+/* 中间状态部分 */
+.docu.data-v-239ad4df{line-height: 80rpx;border-bottom: 4rpx solid #F7F7F7;margin: 0 20rpx;height: 80rpx;}
+.docu .left.data-v-239ad4df{float: left;font-size: 36rpx;}
+.docu .right.data-v-239ad4df{float: right;color: #778086;}
+.zt.data-v-239ad4df{display: -webkit-box;display: -webkit-flex;display: flex;-webkit-box-pack: justify;-webkit-justify-content: space-between;justify-content: space-between;height: 130rpx;margin: 20rpx 50rpx 0 50rpx;}
+.zt image.data-v-239ad4df{width: 70rpx;height: 70rpx;vertical-align: middle;margin-left: 10rpx;}
+.line.data-v-239ad4df{height: 20rpx;background-color: #F5F5F5;}
+.line-img image.data-v-239ad4df{height: 280rpx;width: 100%;}
+/* 底部 */
+.xmvip.data-v-239ad4df{line-height: 90rpx;border-bottom: 2rpx solid #F9F9F9;}
+.xmvip image.data-v-239ad4df{width: 40rpx;height: 40rpx;display: inline-block;vertical-align: middle;}
+.xmvip .txt.data-v-239ad4df{display: inline-block;margin-left: 30rpx;width: 580rpx;}
+.xmvip-inner.data-v-239ad4df{margin: 0 30rpx;}
+

@@ -1,0 +1,119 @@
+
+.find.data-v-13ae15ba{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.find-Nav.data-v-13ae15ba {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	height: 100rpx;
+	border-bottom: solid 1px #CCCCCC;
+	border-top: solid 1px #CCCCCC;
+}
+.Nav-list.data-v-13ae15ba {
+	width: 25%;
+	line-height: 100rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.Nav-list-tilte.data-v-13ae15ba {
+	width: 60%;
+	height: 100%;
+	text-align: right;
+}
+.te.data-v-13ae15ba {
+	height: 100%;
+	width: 40%;
+	position: relative;
+}
+.te-top.data-v-13ae15ba {
+	width: 0;
+	height: 0;
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-bottom: 5px solid #CCCCCC;
+	display: inline-block;
+	vertical-align: super;
+	position: absolute;
+	top: 38rpx;
+	left: 10rpx;
+}
+.te-btn.data-v-13ae15ba {
+	width: 0;
+	height: 0;
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 5px solid #CCCCCC;
+	display: inline-block;
+	vertical-align: sub;
+	position: absolute;
+	top: 55rpx;
+	left: 10rpx;
+}
+.color.data-v-13ae15ba {
+	color: #F0AD4E;
+}
+.Nav-right.data-v-13ae15ba{
+	width: 25%;
+	text-align: center;
+	line-height: 100rpx;
+	color: #F0AD4E;
+}
+.find-list.data-v-13ae15ba{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	border-bottom: solid 1px #CCCCCC;
+	padding: 20rpx 0;
+}
+.find-list-left.data-v-13ae15ba{
+	width: 35%;
+}
+.find-list-image.data-v-13ae15ba{
+	width: 90%;
+	height: 260rpx;
+	margin: 0 auto;
+}
+.find-list-image image.data-v-13ae15ba{
+	width: 100%;
+	height: 100%;
+}
+.find-list-right.data-v-13ae15ba{
+	width: 65%;
+}
+.right-title.data-v-13ae15ba{
+	font-weight: 700;
+	margin-top: 10rpx !important;
+	margin-left: 5%;
+}
+.right-conter.data-v-13ae15ba{
+	font-size: 30rpx;
+	color: #CCCCCC;
+	height: 80rpx;
+	display: -webkit-box;
+		overflow: hidden;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+}
+.right-tto.data-v-13ae15ba{
+	color: #CCCCCC;
+	font-size: 30rpx;
+}
+.right-btn.data-v-13ae15ba{
+	color: #F0AD4E;
+}
+.find-list-right view.data-v-13ae15ba{
+	margin-top: 5rpx;
+	width: 95%;
+	margin: 5rpx auto 0;
+}
+.right-btn-color.data-v-13ae15ba{
+	color: #F0AD4E;
+	font-size: 20rpx;
+	vertical-align: super;
+}
+

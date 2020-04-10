@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "top-nev": "/component/lj/classifyShopping/topNev/topNev",
+    "left-nev": "/component/lj/classifyShopping/left/leftNev"
+  }
+}

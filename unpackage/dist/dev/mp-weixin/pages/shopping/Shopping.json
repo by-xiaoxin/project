@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "shopping-bom": "/component/lj/classifyShopping/shoppingBom/shoppingBom",
+    "shopping-con": "/component/lj/classifyShopping/shoppingCon/shoppingCon"
+  }
+}

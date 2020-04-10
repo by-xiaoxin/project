@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "like": "/component/MyOrder/Like/Like",
+    "message": "/component/MyOrder/Message/Message"
+  }
+}

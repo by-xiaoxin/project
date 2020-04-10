@@ -1,0 +1,64 @@
+
+.coffee{
+	width:100%;
+	background-color:#F5F5F5;
+	display:inline-block;
+}
+.like_s {
+	width: 100%;
+	height: 50rpx;
+	line-height: 50rpx;
+	text-align: center;
+	font-weight: bold;
+	font-size:35rpx;
+	color:#F96B08;
+	margin-top:60rpx;
+}
+.like_a{
+	width:100%;
+	height: 40rpx;
+	line-height: 40rpx;
+	font-size:28.1rpx;
+	text-align: center;
+	color:#B8B8B8;
+}
+.like_z{
+	width:47%;
+	height:500rpx;
+	float:left;
+	background-color:#fff;
+	margin:25rpx 0rpx;
+	margin-left:2%;
+}
+.like_image image{
+	width:100%;
+	height:350rpx;
+}
+.like_titel01{
+	font-size:30rpx;
+	line-height: 40rpx;
+	padding-left:20rpx;
+}
+.like_titel02{
+	font-size:23rpx;
+	color:#626669;
+	padding-left:20rpx;
+	line-height: 40rpx;
+}
+.like_titel03{
+	padding-left:20rpx;
+	padding-top:4rpx;
+}
+.like_titel03 .like_big{
+	color:red;
+	font-size:28rpx;
+	float:left;
+	padding-right:10rpx;
+}
+.like_titel03 .like_little{
+	color:#626669;
+	font-size:20rpx;
+	text-decoration:line-through;
+	padding-top:11rpx;
+}
+

@@ -1,0 +1,342 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 选择商品配置 */
+.main.data-v-81334a44 {
+	position: fixed;
+	top: 15vh;
+	width: 100%;
+	background-color: white;
+	height: 85vh;
+	display: none;
+	border-radius: 10rpx;
+	z-index: 20;
+}
+.cgoodsc.data-v-81334a44,.harvestad.data-v-81334a44,.Serdes.data-v-81334a44{display: none;}
+.cgoodscon.data-v-81334a44 {
+	padding: 20rpx;
+}
+.goodsinfc.data-v-81334a44 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.googsleft.data-v-81334a44 {
+	width: 25%;
+	display: inline-block;
+	text-align: center;
+	border-radius: 10px;
+	border: 1px solid #E0E3E6;
+	padding-top: 10rpx;
+}
+.googsleft image.data-v-81334a44 {
+	width: 80%;
+	height: 150rpx;
+}
+.goodsright.data-v-81334a44 {
+	width: 70%;
+	display: inline-block;
+	padding-top: 30rpx;
+	margin-left: 20rpx;
+}
+.goodsprc.data-v-81334a44 {
+	color: #F86A07;
+	font-size: 24rpx;
+	vertical-align: top;
+}
+.goodsprc text.data-v-81334a44 {
+	font-size: 38rpx;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.goodsprcs text.data-v-81334a44 {
+	font-size: 28rpx;
+	margin: 0px 10rpx;
+}
+.picktit.data-v-81334a44 {
+	line-height: 100rpx;
+	font-size: 32rpx;
+}
+.pickcson.data-v-81334a44 {
+	width: 30%;
+	margin: 0px 2%;
+	display: inline-block;
+	background-color: #F8F9FB;
+	border-radius: 10rpx;
+	line-height: 80rpx;
+	font-size: 32rpx;
+	text-align: center;
+	border: 1px solid #F8F9FB;
+}
+.active.data-v-81334a44 {
+	background-color: #FCE0D5;
+	border: 1px solid #F76D0F;
+}
+.choicef.data-v-81334a44 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	height: 100rpx;
+	line-height: 100rpx;
+	width: 100%;
+	position: absolute;
+	padding-top: 10rpx;
+	margin-bottom: 10rpx;
+	border-top: 1px solid #F7F7F7;
+	bottom: 80rpx;
+}
+.shopf.data-v-81334a44{width: 20%; font-size: 34rpx;}
+.addde.data-v-81334a44{width: 70%; display: inline-block; text-align: right;
+}
+.addde text.data-v-81334a44{display: inline-block; width: 80rpx; text-align: center; border: 1px solid #DBDBDD;
+	height: 80rpx; line-height: 80rpx; font-size: 34rpx;}
+.nums.data-v-81334a44{background-color: #F8F8F8; font-weight: bold;
+}
+.contorl.data-v-81334a44{font-weight: normal; color: #DBDBDD;}
+/* 收货地址 */
+.haad.data-v-81334a44 {
+	text-align: center;
+	font-size: 30rpx;
+	line-height: 80rpx;
+	border-bottom: 1px solid #F3F3F3;
+	font-weight: bold;
+}
+.address.data-v-81334a44 {
+	height: 100rpx;
+	border-bottom: 1px solid #F3F3F3;
+}
+.address image.data-v-81334a44{width: 50rpx; height: 50rpx; margin: 20rpx 0px;}
+.show.data-v-81334a44 {
+	display: block;
+}
+/* 服务说明 */
+.mif.data-v-81334a44{display: -webkit-box;display: -webkit-flex;display: flex; margin: 40rpx 0px;}
+.sgood.data-v-81334a44{width: 10%; display: inline-block;margin: 0px 2%; width: 40rpx; height: 40rpx; background-color: #FD6801;
+	border-radius: 50%; text-align: center; color: white;}
+.mi.data-v-81334a44 {
+	width: 80%; display: inline-block;
+	
+	font-size: 30rpx;
+}
+.mi text.data-v-81334a44 {
+	display: block;
+	font-size: 26rpx;
+	color: #D4D4D4;
+	margin: 20rpx 0px;
+}
+.sure.data-v-81334a44 {
+	background-color: #FD6801;
+	color: white;
+	text-align: center;
+	line-height: 80rpx;
+	position: absolute;
+	bottom: 0px;
+	width: 110%;
+	left: -10%;
+}
+.addshopcar.data-v-81334a44{display: -webkit-box;display: -webkit-flex;display: flex; position: fixed; bottom: 0px; width: 100%;  font-size: 28rpx;}
+.collect.data-v-81334a44,.shopcar.data-v-81334a44{width: 25%; text-align: center; background-color: white; color: #434343;}
+.addsc.data-v-81334a44{width: 50%; text-align: center; background-color: #FD6801; color: white; line-height: 90rpx;}
+.img image.data-v-81334a44{width:40rpx; height: 40rpx;}
+

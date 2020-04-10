@@ -1,0 +1,1 @@
+<view class="index"><nav vue-id="1" bind:__l="__l"></nav><tabs vue-id="2" bind:__l="__l"></tabs></view>

@@ -1,0 +1,134 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .choiceness{
+	margin-top: 20upx;
+} */
+.choiceness-title.data-v-169eb35a {
+	text-indent: 1rem;
+	font-weight: 700;
+	line-height: 80rpx;
+}
+.title-img.data-v-169eb35a {
+	width: 100%;
+	height: 300rpx;
+}
+.title-img image.data-v-169eb35a {
+	width: 100%;
+	height: 100%;
+}
+.choiceness-flex.data-v-169eb35a {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	margin-top: 20rpx;
+}
+.choiceness-list.data-v-169eb35a {
+	width: 47%;
+	margin-left: 2%;
+}
+.choiceness-img.data-v-169eb35a {
+	width: 100%;
+	height: 360rpx;
+}
+.choiceness-img image.data-v-169eb35a {
+	width: 100%;
+	height: 100%;
+}
+.choiceness-particulars.data-v-169eb35a {
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	font-size: 28rpx;
+	text-indent: 0.5rem;
+	color: #CCCCCC;
+}
+.choiceness-introduce.data-v-169eb35a {
+	line-height: 60rpx;
+	font-size: 32rpx;
+	text-indent: 0.5rem;
+	font-weight: 700;
+}
+.choiceness-price.data-v-169eb35a {
+	line-height: 60rpx;
+	font-size: 32rpx;
+	text-indent: 0.5rem;
+}
+.rmb.data-v-169eb35a {
+	color: red;
+	font-size: 24rpx;
+	vertical-align: text-bottom;
+}
+.red.data-v-169eb35a {
+	color: red;
+}
+.price.data-v-169eb35a {
+	color: #CCCCCC;
+	font-size: 24rpx;
+	margin-left: 20rpx;
+}
+

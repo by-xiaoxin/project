@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "shopping-bom": "/component/lj/classifyShopping/shoppingBom/shoppingBom"
+  }
+}
